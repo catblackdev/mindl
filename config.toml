@@ -1,9 +1,9 @@
 # The base URL of the site; the only required configuration variable.
-base_url = "https://deepthought-theme.netlify.app"
+base_url = "https://mindl.netlify.app"
 
 # The site title and description; used in feeds by default.
-title = "DeepThought"
-description = "A simple blog theme focused on writing powered by Bulma and Zola"
+title = "Mindl"
+description = "Daily ideas, thoughts."
 
 # The default language; used in feeds.
 default_language = "en"
@@ -184,34 +184,12 @@ safari_pinned_tab = "/icons/safari-pinned-tab.svg"
 webmanifest = "/icons/site.webmanifest"
 
 [extra.author]
-name = "DeepThought"
+name = "Mindl"
 avatar = "images/avatar.png"
 
 [extra.social]
-facebook = "RatanShreshtha"
-github = "RatanShreshtha"
-gitlab = "ratanshreshtha"
-keybase = "RatanShreshtha"
-linkedin = "ratanshreshtha"
-stackoverflow = "3728911"
-email = "deepthought@gmail.com"
-twitter = "RatanShreshtha"
-reddit = "RatanShreshtha"
-instagram = "RatanShreshtha"
-mastodon_username = "@RatanShreshtha"
-mastodon_server = "mastodon.social"
-discord = "RatanShreshtha"
-behance = "RatanShreshtha"
-youtube = "RatanShreshtha"
-tumblr = "RatanShreshtha"
-twitch = "RatanShreshtha"
-dev = "RatanShreshtha"
-bitbucket = "RatanShreshtha"
-medium = "RatanShreshtha"
-soundcloud = "RatanShreshtha"
-googleplay = "RatanShreshtha"
-orcid = "RatanShreshtha"
-google_scholar = "RatanShreshtha"
+github = "catblackdev"
+twitter = "catblackdev"
 
 [extra.analytics]
 google = "G-JPHGX4YXVE"
